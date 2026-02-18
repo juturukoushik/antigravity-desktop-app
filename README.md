@@ -238,6 +238,32 @@ Built as part of the Antigravity Bootcamp.
 **This project is for educational and demonstration purposes.**
 
 
+## Terminal Commands Used
 
+### 1. Initialize the project
+npm init -y
+
+
+### 2. Install Electron
+npm install electron --save-dev
+
+
+### 3. Run the application
+npm start
+
+
+### 4. Install Electron Builder (for generating installer)
+npm install electron-builder --save-dev
+
+
+### 5. Build Windows installer (.exe)
+npm run build
+
+
+After running the build command, the installable file was generated inside:
+
+dist/AntigravityDesktopApp Setup 1.0.0.exe
+
+**Built with love with the help of CipherSchools**
 
 
