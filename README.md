@@ -1,5 +1,9 @@
 **# Antigravity Desktop Wrapper**
 
+ElectronJS-based cross-platform desktop application that wraps Google Keep.
+
+Built as part of the Antigravity Bootcamp.
+
 
 
 **This project demonstrates how to convert a web application into a native desktop application using Electron.js.**
@@ -231,6 +235,7 @@
 
 
 **This project is for educational and demonstration purposes.**
+
 
 
 
