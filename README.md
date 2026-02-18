@@ -3,6 +3,7 @@
 ElectronJS-based cross-platform desktop application that wraps Google Keep.
 
 Built as part of the Antigravity Bootcamp.
+*Built with love with the help of CipherSchools*
 
 
 
@@ -235,6 +236,7 @@ Built as part of the Antigravity Bootcamp.
 
 
 **This project is for educational and demonstration purposes.**
+
 
 
 
